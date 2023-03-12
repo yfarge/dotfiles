@@ -2,15 +2,15 @@
 # Fonts 
 font:
   normal:
-    family: "Roboto Mono"
+    family: "SourceCodePro"
     
   bold:
-    family: "Roboto Mono"
+    family: "SourceCodePro"
     
   italic:
-    family: "Roboto Mono"
+    family: "SourceCodePro"
     
   bold_italic:
-    family: "Roboto Mono"
+    family: "SourceCodePro"
   
   size: 18
