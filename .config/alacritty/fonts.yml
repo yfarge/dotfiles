@@ -1,0 +1,16 @@
+
+# Fonts 
+font:
+  normal:
+    family: "Roboto Mono"
+    
+  bold:
+    family: "Roboto Mono"
+    
+  italic:
+    family: "Roboto Mono"
+    
+  bold_italic:
+    family: "Roboto Mono"
+  
+  size: 18
