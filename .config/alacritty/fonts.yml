@@ -2,15 +2,15 @@
 # Fonts 
 font:
   normal:
-    family: "SourceCodePro"
+    family: "Hacker Nerd Font"
     
   bold:
-    family: "SourceCodePro"
+    family: "Hacker Nerd Font"
     
   italic:
-    family: "SourceCodePro"
+    family: "Hacker Nerd Font"
     
   bold_italic:
-    family: "SourceCodePro"
+    family: "Hacker Nerd Font"
   
   size: 18
