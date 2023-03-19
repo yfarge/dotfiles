@@ -2,15 +2,15 @@
 # Fonts 
 font:
   normal:
-    family: "Hacker Nerd Font"
+    family: "Hack Nerd Font"
     
   bold:
-    family: "Hacker Nerd Font"
+    family: "Hack Nerd Font"
     
   italic:
-    family: "Hacker Nerd Font"
+    family: "Hack Nerd Font"
     
   bold_italic:
-    family: "Hacker Nerd Font"
+    family: "Hack Nerd Font"
   
   size: 18
